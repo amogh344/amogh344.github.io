@@ -1,128 +1,122 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amogh+Brahma+R+%F0%9F%9B%A1%EF%B8%8F;Security+Engineer+Intern+%40+Gigahertz;VAPT+Analyst+%26+Red+Team+Specialist;CTF+Competitor+%26+Cybersecurity+Researcher" alt="Typing SVG Banner" />
+  <!-- Matrix Header Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%5B%2B%5D+MATRIX+SECURITY+CLEARANCE+ACCEPTED;OPERATOR%3A+AMOGH+BRAHMA+R;VAPT+ANALYST+%7C+RED+TEAMER;SECURITY+ENGINEER+INTERN+%40+GIGAHERTZ" alt="Matrix Typing SVG" />
 
-  <p align="center">
-    <strong>Information Science & Engineering Graduate | Security Engineer Intern @ Gigahertz Consultants</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://amogh344.github.io"><img src="https://img.shields.io/badge/Portfolio-amogh344.github.io-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"></a>
-    <a href="https://tryhackme.com/p/shdwmnch344"><img src="https://img.shields.io/badge/TryHackMe-shdwmnch344-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"></a>
-    <a href="mailto:amoghbrahma@gmail.com"><img src="https://img.shields.io/badge/Email-amoghbrahma%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-```yaml
-Name: Amogh Brahma R
-Role: Security Engineer Intern @ Gigahertz Consultants Private Limited
-Location: Bangalore, India
-Education: B.Tech in Information Science & Engineering @ Acharya Institute of Technology (2022–2026, GPA: 8.5)
-Specializations:
-  - Vulnerability Assessment & Penetration Testing (VAPT)
-  - Red Teaming & Attack Simulation
-  - AI-Driven Cyber Defense & Machine Learning Security
-Certifications & Learning Paths:
-  - TryHackMe Jr Penetration Tester
-  - TryHackMe Cyber Security 101 & Pre-Security
-  - Certified Ethical Hacker (CEH) - EC-Council [In Progress]
-Honors:
-  - 🏆 1st Place (Winner) — Hack-a-League 3.0 (Cybersecurity Domain)
-  - 🥈 Runner-Up — Acharya CTF
-  - 📜 2nd Place — College Journal Research Paper Publishing
-```
-
----
-
-### 🛡️ TryHackMe Stats Showcase (`@shdwmnch344`)
-
-<div align="center">
-  <a href="https://tryhackme.com/p/shdwmnch344" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/shdwmnch344.png" alt="TryHackMe Badge for shdwmnch344" width="380" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Global%20Rank-Top%202%25-brightgreen?style=for-the-badge&logo=chart-line" alt="Top 2%">
-  <img src="https://img.shields.io/badge/Rooms%20Completed-196-orange?style=for-the-badge&logo=flag" alt="196 Rooms">
-  <img src="https://img.shields.io/badge/Active%20Streak-56%20Days-red?style=for-the-badge&logo=fire" alt="56 Days Streak">
-</div>
-
----
-
-### 🧰 Technical Arsenal & Toolset
-
-#### 🗡️ Offensive Security & VAPT
-![VAPT](https://img.shields.io/badge/VAPT-Vulnerability_Assessment_%26_Penetration_Testing-black?style=flat-square&logo=shield)
-![Red Team](https://img.shields.io/badge/Red_Teaming-Attack_Simulation-red?style=flat-square&logo=user-ninja)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scanner-blue?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-orange?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-black?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-blue?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-Brute_Force-red?style=flat-square)
-![Gobuster](https://img.shields.io/badge/Gobuster-Directory_Fuzzing-darkgreen?style=flat-square)
-![John](https://img.shields.io/badge/John_the_Ripper-Password_Cracking-purple?style=flat-square)
-
-#### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-#### ☁️ Systems, Cloud & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kali-linux&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
----
-
-### 🚀 Featured Cybersecurity Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎯 **[VulnHunter](https://github.com/amogh344)** | Full-stack web application vulnerability scanner with interactive dashboard & auto-generated PDF security reports. | `MongoDB` `Express` `React` `Node.js` |
-| 🔑 **[AI Password Security System](https://github.com/amogh344)** | ML security service detecting compromised or weak passwords using trained classifiers & enterprise policies. | `Python` `Flask` `Scikit-learn` |
-| 🛡️ **[Cyber WatchDogs](https://github.com/amogh344)** | Raspberry Pi Intrusion Detection System (IDS) with real-time network traffic analysis & honeypot visualization. | `Python` `ELK Stack` `Raspberry Pi` |
-| 🤖 **[AI Cyber Warfare Simulator](https://github.com/amogh344)** | Deep Reinforcement Learning Red vs. Blue Team co-evolution simulator with LLM phishing & DarkBERT threat detection. | `Python` `PyTorch` `Deep RL` `DarkBERT` |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amogh344&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amogh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh344&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh344&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
+
+<!-- Matrix ID Card Table Container -->
+<table border="0" cellspacing="0" cellpadding="0" style="background: #0d1117; border: 2px solid #00FF66; border-radius: 12px; font-family: 'Fira Code', monospace; color: #00FF66; width: 100%; box-shadow: 0 0 20px rgba(0,255,102,0.3);">
+  <tr>
+    <td colspan="2" style="background: #002200; border-bottom: 2px solid #00FF66; padding: 12px; text-align: center;">
+      <span style="color: #00FF66; font-size: 16px; font-weight: bold; letter-spacing: 2px;">
+        ☣️ MATRIX CYBER DEFENSE PERSONNEL ACCESS CARD ☣️
+      </span>
+      <br/>
+      <span style="color: #00FF41; font-size: 11px; letter-spacing: 1px;">CLEARANCE ID: SEC-8123-AMOGH344 // STATUS: ACTIVE</span>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center" style="padding: 20px; border-right: 1px solid #004400; vertical-align: top;">
+      <!-- Profile Picture Avatar -->
+      <img src="https://tryhackme-badges.s3.amazonaws.com/shdwmnch344.png" alt="Matrix Avatar" width="180" style="border: 2px solid #00FF66; border-radius: 8px; box-shadow: 0 0 12px rgba(0,255,102,0.4);" />
+      <br/><br/>
+      <span style="background: #00FF66; color: #000000; font-weight: bold; padding: 4px 10px; border-radius: 4px; font-size: 12px;">
+        LEVEL 4 CLEARANCE
+      </span>
+      <br/><br/>
+      <span style="color: #00FF41; font-size: 12px;">CODENAME:</span><br/>
+      <strong style="color: #FFFFFF; font-size: 14px;">shdwmnch344</strong>
+    </td>
+    <td width="70%" style="padding: 20px; vertical-align: top; color: #00FF41; font-family: 'Fira Code', monospace; font-size: 13px; line-height: 1.8;">
+      <span style="color: #00FF66;">[OPERATOR DATA FILE]</span><br/>
+      <strong>FULL NAME &nbsp; :</strong> <span style="color: #FFFFFF;">AMOGH BRAHMA R</span><br/>
+      <strong>ROLE &nbsp; &nbsp; &nbsp; &nbsp; :</strong> <span style="color: #FFFFFF;">SECURITY ENGINEER INTERN @ GIGAHERTZ CONSULTANTS</span><br/>
+      <strong>ACADEMICS &nbsp; &nbsp;:</strong> <span style="color: #FFFFFF;">B.TECH ISE @ ACHARYA INSTITUTE OF TECHNOLOGY (GPA: 8.5)</span><br/>
+      <strong>SPECIALTY &nbsp; &nbsp;:</strong> <span style="color: #FFFFFF;">VAPT, RED TEAMING, WEB SECURITY & CTFs</span><br/>
+      <strong>LOCATION &nbsp; &nbsp; :</strong> <span style="color: #FFFFFF;">BANGALORE, INDIA [12.9716° N, 77.5946° E]</span><br/>
+      <br/>
+      <span style="color: #00FF66;">[TRYHACKME METRICS]</span><br/>
+      <strong>GLOBAL RANK &nbsp;:</strong> <span style="color: #00FF66; font-weight: bold;">TOP 2% WORLDWIDE</span><br/>
+      <strong>ROOMS SOLVED :</strong> <span style="color: #00FF66; font-weight: bold;">196 COMPLETED LABS</span><br/>
+      <strong>ACTIVE STREAK:</strong> <span style="color: #00FF66; font-weight: bold;">56 DAYS CONTINUOUS</span><br/>
+      <br/>
+      <span style="color: #00FF66;">[HONORS & WINS]</span><br/>
+      🏆 <strong>1ST PLACE (WINNER)</strong> &nbsp;: HACK-A-LEAGUE 3.0 (CYBERSECURITY)<br/>
+      🥈 <strong>RUNNER-UP</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: ACHARYA CTF COMPETITION<br/>
+      📜 <strong>2ND PLACE</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: JOURNAL RESEARCH PAPER PUBLISHING
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="background: #001100; border-top: 1px solid #004400; padding: 10px; text-align: center; color: #00FF41; font-size: 11px;">
+      PORTFOLIO: <a href="https://amogh344.github.io" style="color: #00FF66; text-decoration: none; font-weight: bold;">https://amogh344.github.io</a> &nbsp;|&nbsp; EMAIL: <a href="mailto:amoghbrahma@gmail.com" style="color: #00FF66; text-decoration: none;">amoghbrahma@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 📫 Connect With Me
+```
++-----------------------------------------------------------------------------------------+
+|                              TECHNICAL MATRIX & SECURITY ARSENAL                         |
++-----------------------------------------------------------------------------------------+
+| [OFFENSIVE TOOLS] : Nmap | Burp Suite | Metasploit | Wireshark | Hydra | Gobuster | ffuf|
+| [LANGUAGES]       : Python | Bash | SQL | JavaScript | Flask | Node.js | React | PyTorch|
+| [ENVIRONMENTS]    : Kali Linux | Parrot OS | Active Directory | Docker | AWS | GCP | ELK|
++-----------------------------------------------------------------------------------------+
+```
+
+---
+
+### 💻 Matrix Project Log
+
+```bash
+root@matrix-ops:~# cat /etc/security/projects.list
+```
+
+```
+[01] VULNHUNTER - WEB VULNERABILITY SCANNER
+     └─ Full-stack MERN security scanner with interactive threat visualization & automated PDF reporting.
+     └─ Tech Stack: MongoDB, Express, React, Node.js, Security Analysis
+
+[02] AI PASSWORD SECURITY SYSTEM
+     └─ ML-driven security engine detecting compromised passwords via trained classifiers.
+     └─ Tech Stack: Python, Flask, Scikit-learn, Machine Learning
+
+[03] CYBER WATCHDOGS - INTRUSION DETECTION SYSTEM
+     └─ Raspberry Pi network IDS featuring real-time packet inspection, honeypots & ELK dashboard.
+     └─ Tech Stack: Python, ELK Stack, Raspberry Pi, Honeypot Simulation
+
+[04] AI CYBER WARFARE SIMULATOR
+     └─ Deep Reinforcement Learning Red vs Blue Team simulator on Raspberry Pi testbed.
+     └─ Tech Stack: PyTorch, Deep RL, LLM Phishing, DarkBERT Detection
+```
+
+---
+
+### 📊 Matrix System Telemetry
 
 <div align="center">
-  <a href="https://amogh344.github.io"><img src="https://img.shields.io/badge/Website-amogh344.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:amoghbrahma@gmail.com"><img src="https://img.shields.io/badge/Email-amoghbrahma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="tel:+918123368300"><img src="https://img.shields.io/badge/Phone-+91_81233_68300-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/amogh344"><img src="https://img.shields.io/badge/GitHub-amogh344-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/shdwmnch344"><img src="https://img.shields.io/badge/TryHackMe-shdwmnch344-222222?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=amogh344&show_icons=true&theme=matrix&hide_border=true&count_private=true" alt="Amogh's Matrix Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh344&layout=compact&theme=matrix&hide_border=true" alt="Top Languages Matrix" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh344&theme=matrix&hide_border=true" alt="Matrix Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  <p style="font-family: 'Fira Code', monospace; color: #00FF66;">
+    <code>// END OF MATRIX TRANSMISSION -- AMOGH BRAHMA R 2025 //</code>
+  </p>
 </div>
