@@ -346,9 +346,17 @@ Initiating download for <strong>Amogh_Brahma_R_Resume.pdf</strong>...
         if (!container) return;
 
         try {
-            const res = await fetch('https://api.github.com/users/amogh344/repos?sort=updated&per_page=6');
+            const res = await fetch('https://api.github.com/users/amogh344/repos?sort=updated&per_page=10');
             if (!res.ok) throw new Error('GitHub API HTTP Error');
-            const repos = await res.json();
+            let repos = await res.json();
+
+            // Exclude portfolio meta repos (amogh344.github.io and amogh344)
+            if (Array.isArray(repos)) {
+                repos = repos.filter(repo => {
+                    const name = (repo.name || '').toLowerCase();
+                    return name !== 'amogh344.github.io' && name !== 'amogh344';
+                });
+            }
 
             if (!Array.isArray(repos) || repos.length === 0) {
                 container.innerHTML = `
